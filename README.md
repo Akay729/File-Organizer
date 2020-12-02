@@ -1,8 +1,8 @@
 File organizer
 ====================================
 
-**File organizer** is a progran that find, move and
-write file information in a csv file.
+**File organizer** is a program that finds, moves and
+writes files informations into csv file.
 
 modules used:
 
